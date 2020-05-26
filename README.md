@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/SteveJonesRedgate/ms%20learnt%20team%20module%202/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/SteveJonesRedgate/ms%20learnt%20team%20module%202/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
